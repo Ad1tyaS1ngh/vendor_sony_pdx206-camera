@@ -10,5 +10,5 @@ Prebuilt stock Sony Camera apps to include in custom ROM builds.
 
 ```
 # Camera
-$(call inherit-product-if-exists, vendor/sony/pdx206-camera/pdx206-camera-vendor.mk)
+$(call inherit-product-if-exists, vendor/sony/pdx206-camera/sonycamera.mk)
 ```

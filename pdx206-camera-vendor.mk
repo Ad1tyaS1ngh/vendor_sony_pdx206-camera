@@ -7,8 +7,11 @@ PRODUCT_SOONG_NAMESPACES += \
 
 
 PRODUCT_PACKAGES += \
+    CameraAddonPermission \
+    CameraCommonPermission \
     SomcCinemaPro-xxhdpi-release \
     ArtFilterCamera-xxhdpi-release \
+    CameraCommon \
     CameraPanorama-release \
     SemcCameraUI-xxhdpi-release \
     SomcPhotoPro-xxhdpi-release \

@@ -78,6 +78,7 @@ android_app_import {
 	name: "SomcPhotoPro-xxhdpi-release",
 	owner: "sony",
 	apk: "proprietary/product/priv-app/SomcPhotoPro-xxhdpi-release/SomcPhotoPro-xxhdpi-release.apk",
+	overrides: ["Aperture", "Camera2", "GoogleCameraGo"],
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,

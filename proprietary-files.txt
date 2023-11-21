@@ -9,4 +9,4 @@ product/priv-app/ArtFilterCamera-xxhdpi-release/ArtFilterCamera-xxhdpi-release.a
 product/priv-app/CameraCommon/CameraCommon.apk
 product/priv-app/CameraPanorama-release/CameraPanorama-release.apk
 product/priv-app/com.sonymobile.addoncamera.portraitselfie/com.sonymobile.addoncamera.portraitselfie.apk
-product/priv-app/SomcPhotoPro-xxhdpi-release/SomcPhotoPro-xxhdpi-release.apk
+product/priv-app/SomcPhotoPro-xxhdpi-release/SomcPhotoPro-xxhdpi-release.apk;OVERRIDES=Aperture,Camera2,GoogleCameraGo

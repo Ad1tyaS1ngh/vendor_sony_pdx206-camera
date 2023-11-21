@@ -1,4 +1,5 @@
-# Stock package version: Sony/XQ-AS72/XQ-AS72:12/58.2.A.10.126/058002A010012603718185433:user/release-keys
+## All proprietary files from this list, unless pinned and noted otherwise, are
+## are from Sony Xperia 1 III (XQ-BC72_Customized HK_61.2.A.0.472A).
 
 # Camera
 product/app/CameraAddonPermission/CameraAddonPermission.apk
@@ -8,5 +9,4 @@ product/priv-app/ArtFilterCamera-xxhdpi-release/ArtFilterCamera-xxhdpi-release.a
 product/priv-app/CameraCommon/CameraCommon.apk
 product/priv-app/CameraPanorama-release/CameraPanorama-release.apk
 product/priv-app/com.sonymobile.addoncamera.portraitselfie/com.sonymobile.addoncamera.portraitselfie.apk
-product/priv-app/SemcCameraUI-xxhdpi-release/SemcCameraUI-xxhdpi-release.apk;OVERRIDES=Aperture,Camera2,GoogleCameraGo
 product/priv-app/SomcPhotoPro-xxhdpi-release/SomcPhotoPro-xxhdpi-release.apk

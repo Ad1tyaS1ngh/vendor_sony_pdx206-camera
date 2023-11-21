@@ -13,6 +13,5 @@ PRODUCT_PACKAGES += \
     ArtFilterCamera-xxhdpi-release \
     CameraCommon \
     CameraPanorama-release \
-    SemcCameraUI-xxhdpi-release \
     SomcPhotoPro-xxhdpi-release \
     com.sonymobile.addoncamera.portraitselfie

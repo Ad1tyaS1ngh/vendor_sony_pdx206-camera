@@ -10,7 +10,6 @@ PRODUCT_PACKAGES += \
     CameraAddonPermission \
     CameraCommonPermission \
     SomcCinemaPro-xxhdpi-release \
-    ArtFilterCamera-xxhdpi-release \
     CameraCommon \
     CameraPanorama-release \
     SomcPhotoPro-xxhdpi-release \

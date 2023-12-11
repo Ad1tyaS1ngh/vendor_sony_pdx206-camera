@@ -5,7 +5,6 @@
 product/app/CameraAddonPermission/CameraAddonPermission.apk
 product/app/CameraCommonPermission/CameraCommonPermission.apk
 product/app/SomcCinemaPro-xxhdpi-release/SomcCinemaPro-xxhdpi-release.apk
-product/priv-app/ArtFilterCamera-xxhdpi-release/ArtFilterCamera-xxhdpi-release.apk
 product/priv-app/CameraCommon/CameraCommon.apk
 product/priv-app/CameraPanorama-release/CameraPanorama-release.apk
 product/priv-app/com.sonymobile.addoncamera.portraitselfie/com.sonymobile.addoncamera.portraitselfie.apk

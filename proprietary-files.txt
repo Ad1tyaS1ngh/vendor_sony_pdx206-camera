@@ -2,10 +2,10 @@
 ## are from Sony Xperia 1 III (XQ-BC72_Customized HK_61.2.A.0.472A).
 
 # Camera
-product/app/CameraAddonPermission/CameraAddonPermission.apk
-product/app/CameraCommonPermission/CameraCommonPermission.apk
-product/app/SomcCinemaPro-xxhdpi-release/SomcCinemaPro-xxhdpi-release.apk
-product/priv-app/CameraCommon/CameraCommon.apk
+product/app/CameraAddonPermission/CameraAddonPermission.apk;PRESIGNED
+product/app/CameraCommonPermission/CameraCommonPermission.apk;PRESIGNED
+product/app/SomcCinemaPro-xxhdpi-release/SomcCinemaPro-xxhdpi-release.apk;PRESIGNED
+product/priv-app/CameraCommon/CameraCommon.apk;PRESIGNED
 product/priv-app/CameraPanorama-release/CameraPanorama-release.apk
-product/priv-app/com.sonymobile.addoncamera.portraitselfie/com.sonymobile.addoncamera.portraitselfie.apk
-product/priv-app/SomcPhotoPro-xxhdpi-release/SomcPhotoPro-xxhdpi-release.apk;OVERRIDES=Aperture,Camera2,GoogleCameraGo
+product/priv-app/com.sonymobile.addoncamera.portraitselfie/com.sonymobile.addoncamera.portraitselfie.apk;PRESIGNED
+product/priv-app/SomcPhotoPro-xxhdpi-release/SomcPhotoPro-xxhdpi-release.apk;PRESIGNED;OVERRIDES=Aperture,Camera2,GoogleCameraGo

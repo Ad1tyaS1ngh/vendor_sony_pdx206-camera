@@ -9,7 +9,7 @@ android_app_import {
 	name: "CameraAddonPermission",
 	owner: "sony",
 	apk: "proprietary/product/app/CameraAddonPermission/CameraAddonPermission.apk",
-	certificate: "platform",
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -20,7 +20,7 @@ android_app_import {
 	name: "CameraCommonPermission",
 	owner: "sony",
 	apk: "proprietary/product/app/CameraCommonPermission/CameraCommonPermission.apk",
-	certificate: "platform",
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -31,7 +31,7 @@ android_app_import {
 	name: "SomcCinemaPro-xxhdpi-release",
 	owner: "sony",
 	apk: "proprietary/product/app/SomcCinemaPro-xxhdpi-release/SomcCinemaPro-xxhdpi-release.apk",
-	certificate: "platform",
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -42,7 +42,7 @@ android_app_import {
 	name: "CameraCommon",
 	owner: "sony",
 	apk: "proprietary/product/priv-app/CameraCommon/CameraCommon.apk",
-	certificate: "platform",
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -66,8 +66,8 @@ android_app_import {
 	name: "SomcPhotoPro-xxhdpi-release",
 	owner: "sony",
 	apk: "proprietary/product/priv-app/SomcPhotoPro-xxhdpi-release/SomcPhotoPro-xxhdpi-release.apk",
+	presigned: true,
 	overrides: ["Aperture", "Camera2", "GoogleCameraGo"],
-	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
 	},
@@ -79,7 +79,7 @@ android_app_import {
 	name: "com.sonymobile.addoncamera.portraitselfie",
 	owner: "sony",
 	apk: "proprietary/product/priv-app/com.sonymobile.addoncamera.portraitselfie/com.sonymobile.addoncamera.portraitselfie.apk",
-	certificate: "platform",
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},

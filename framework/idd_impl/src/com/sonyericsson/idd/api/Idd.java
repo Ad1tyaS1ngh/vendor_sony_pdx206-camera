@@ -1,6 +1,6 @@
 /*
  * SPDX-FileCopyrightText: 2023 someone5678
- * SPDX-FileCopyrightText: 2023 The LineageOS Project
+ * SPDX-FileCopyrightText: 2023-2024 The LineageOS Project
  * SPDX-License-Identifier: Apache-2.0
  */
 
@@ -13,5 +13,9 @@ public final class Idd {
     }
 
     public static void addEvent(String pkg, String name, byte[] payload) {
+    }
+
+    public static void addAppDataJSON(String packageName, String versionName, int versionCode,
+            JSONObject payload) {
     }
 }
